@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Calculadora de Manijas</string>
+    <string name="Title">Calculadora de Manijas</string>
+    <string name="calcular">Calcular Precio</string>
+    <string name="cop">Peso Colombiano</string>
+    <string name="dolar">Dolar USD</string>
+    <string name="dije_anchor">Dije Ancla</string>
+    <string name="dije_hammer">Dije Martillo</string>
+
+    <string name="material_select">Porfavor Seleccione un Material</string>
+    <string name="material_leather">Cuero</string>
+    <string name="material_rope">Cuerda</string>
+
+    <string name="type_select">Porfavor Seleccione el Tipo</string>
+    <string name="type_pink_gold">Oro Rosa</string>
+    <string name="type_gold">Oro</string>
+    <string name="type_silver">Plata</string>
+    <string name="type_nickel">Niquel</string>
+
+    <string-array name="materials">
+        <item>@string/material_select</item>
+        <item>@string/material_leather</item>
+        <item>@string/material_rope</item>
+    </string-array>
+
+    <string-array name="types">
+        <item>@string/type_select</item>
+        <item>@string/type_pink_gold</item>
+        <item>@string/type_gold</item>
+        <item>@string/type_silver</item>
+        <item>@string/type_nickel</item>
+    </string-array>
+
+    <string name="validate_material">Porfavor Selecciones un Material</string>
+    <string name="validate_type">Pofavor seleccione el tipo de manilla</string>
+    <string name="validate_dije">Porfavor elija un dije</string>
+    <string name="validate_quantity">pofavor ingrese la cantidad</string>
+    <string name="quantity">ingrese una cantidad</string>
+    <string name="validate_money">Porfavor Seleccione un tipo de moneda</string>
+    <string name="result_cop">El valor de la/s manijas es COP : $</string>
+    <string name="result_usd">El valor de la manijas es USD : $</string>
+    <string name="clear">Limpiar</string>
+</resources>

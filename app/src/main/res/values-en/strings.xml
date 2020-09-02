@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" handles calculator"</string>
+    <string name="Title">" handles calculator"</string>
+    <string name="calcular">calculate price</string>
+    <string name="cop">Peso Colombiano</string>
+    <string name="dolar">Dolar USD</string>
+    <string name="dije_anchor">handle anchor</string>
+    <string name="dije_hammer">handle hammer</string>
+    <string name="material_select">Please select a material</string>
+    <string name="material_leather">leather</string>
+    <string name="material_rope">rope</string>
+    <string name="type_select">Please select a type of handle</string>
+    <string name="type_pink_gold">pink gold</string>
+    <string name="type_gold">gold</string>
+    <string name="type_silver">silver</string>
+    <string name="type_nickel">nikel</string>
+    <string name="validate_material">please select a material</string>
+    <string name="validate_type">please select a type of handle</string>
+    <string name="validate_dije">please select a said</string>
+    <string name="validate_quantity">please input a quantity</string>
+    <string name="quantity">quantity</string>
+    <string name="validate_money">please select a type of money</string>
+    <string name="result_cop">Value of said is COP $ :</string>
+    <string name="result_usd">value of said is USD $ :</string>
+    <string name="clear">Clear</string>
+</resources>
